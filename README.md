@@ -16,6 +16,7 @@ The dataset for this project is available <a href="https://github.com/ieee8023/c
 Contact: <a href="https://web.eecs.umich.edu/~mayankb/">Mayank Baranwal, Postdoctoral Fellow, University of Michigan at Ann Arbor</a>
 
 ### Citation
+Please use the following citation when using this repository.
     @misc{BaranwalXCNN,
       author = {Baranwal, Mayank},
       title = {XCNN: A CNN based classifier for detecting COVID-19 from PA chest X-ray scans},
