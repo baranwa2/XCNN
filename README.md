@@ -17,6 +17,7 @@ Contact: <a href="https://web.eecs.umich.edu/~mayankb/">Mayank Baranwal, Postdoc
 
 ### Citation
 Please use the following citation when using this repository.
+
     @misc{BaranwalXCNN,
       author = {Baranwal, Mayank},
       title = {XCNN: A CNN based classifier for detecting COVID-19 from PA chest X-ray scans},
