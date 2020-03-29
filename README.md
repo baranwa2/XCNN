@@ -16,3 +16,13 @@ The dataset for this project is available <a href="https://github.com/ieee8023/c
 Contact
 
 ### Citation
+`
+@misc{Charles2013,
+  author = {Baranwal, Mayank},
+  title = {XCNN: A CNN based classifier for detecting COVID-19 from PA chest X-ray scans},
+  year = {2020},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/baranwa2/XCNN}}
+}
+`
